@@ -1,0 +1,13 @@
+{
+  "name": "aternos-afk-bot",
+  "version": "1.0.0",
+  "description": "A free Aternos AFK bot using Mineflayer to keep server alive 24/7",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "mineflayer": "^4.11.0"
+  }
+}
